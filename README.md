@@ -20,7 +20,3 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dotyocode&label=Profile%20views&color=0e75b6&style=flat" alt="dotyocode" /> </p>
 
-
-
-
-<img src="https://thumbs.gfycat.com/ClearCarelessBeagle-size_restricted.gif" align="center" alt="Computador iuriCode">
