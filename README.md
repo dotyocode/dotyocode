@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dotyocode&label=Profile%20views&color=0e75b6&style=flat" alt="dotyocode" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dotyocode" alt="dotyocode" /></a> </p>
-
 - 🌱 I’m currently learning **I'm currently studying REACT, I want to be able to add a lot to this library**
 
 <h3 align="left">Connect with me:</h3>
