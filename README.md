@@ -17,7 +17,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dotyocode&show_icons=true&locale=en&layout=compact" alt="dotyocode" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dotyocode&show_icons=true&locale=en" alt="dotyocode" width="450px; /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dotyocode&show_icons=true&locale=en" alt="dotyocode" width="400px; /></p>
 
 
 
