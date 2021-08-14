@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John</h1>
-<p>Hi, my name is Jhonathan. I currently live in Viçosa/MG. Currently I work as a Front-end using the technologies, AngularJS, NodeJS, Ionic, Typescript. (STUDYING REACT) I'm currently studying Computer Engineering. I had my first contacts with programming in mid-2013 when I took the Computer Technician course and with my brother. In my day, I use: HTML5, CSS3, SCSS, Javascript, AngularJs, Ionic, Typescript, NodeJs, MongoDb, Mongoose, Git, PHP(basic). I study courses from Udemy, Digital Innovation One, Youtube and documentation every day. I'm always looking for new knowledge.</p>
+<p>Hi, my name is Jhonathan. I currently live in Viçosa/MG. Currently I work as a Front-end using the technologies, AngularJS, NodeJS, Ionic, Typescript. (STUDYING REACT) I'm currently studying Computer Engineering. I had my first contacts with programming in mid-2013 when I took the Computer Technician course and with my brother. In my day, I use: HTML5, CSS3, SCSS, Javascript, AngularJs, Ionic, Typescript, NodeJs, MongoDb, Mongoose, Git. I study courses from Udemy, Digital Innovation One, Youtube and documentation every day. I'm always looking for new knowledge.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dotyocode&label=Profile%20views&color=0e75b6&style=flat" alt="dotyocode" /> </p>
 
