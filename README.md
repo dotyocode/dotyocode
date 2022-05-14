@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John</h1>
-<p>Hi, my name is Jhonathan. I currently live in Viçosa/MG. Currently I work as a Front-end using the technologies, Angular2, AngularJS, NodeJS, Typescript. I'm currently studying Computer Engineering. I had my first contacts with programming in mid-2013 when I took the Computer Technician course and with my brother. In my day, I use: HTML5, CSS3, SCSS, Javascript, Angular2, AngularJS, Typescript, NodeJs, MongoDb, Mongoose, Git.</p>
+<p>Hi, my name is Jhonathan. I currently live in Viçosa/MG. Currently I work as a Front-end using the technologies, Angular2, AngularJS, NodeJS, Typescript. I'm currently studying Computer Engineering. I had my first contacts with programming in mid-2013 when I took the Computer Technician course and with my brother.</p>
 
 
 <h3 align="left">Connect with me:</h3>
