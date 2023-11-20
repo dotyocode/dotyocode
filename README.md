@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 ## Hi bro!! 👋
-### i'm John. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+### i'm John. <img src="https://pa1.aminoapps.com/7569/d85f542e851e8799be664bbc27a38c5709b688c6r1-320-192_hq.gif" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 - 🔰 Viçosa / MG
 - ⚡ Front end developer and future fullstack developer 
