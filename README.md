@@ -37,7 +37,7 @@ Skills: `Angular`, `AngularJS`, `RXJs`, `Node.js`, `Jasmine`, `Scrum`, `HTML`, `
 ##
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/imvRQVsNKJqLaGbB5zgvByAR5tRtJbTOUwSFgIvtzae1LvmfIT7LRqrlqNJB87IomvnrdxgyzQ=s900-c-k-c0x00ffffff-no-rj"/>](https://www.valecard.com.br/)
-**Front end Developer Junior** \
+**FullStack Developer Junior** \
 [**Vale Card**](https://www.valecard.com.br/) • Full-time \
 Skills: `Angular`, `AngularJS`, `RXJs`, `Java`, `Springboot`, `Jasmine`, `Scrum`, `HTML`, `Bootstrap`, `SASS`, `SCSS` `Tail wind` `GitLab` `GIT` `Azure`, 
 <br/> 
