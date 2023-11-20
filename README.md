@@ -11,7 +11,7 @@
 
 #### I'm learning about:
 [<img height="48px" width="48px" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"/>](https://www.java.com/pt-BR/)
-[<img height="48px" width="65px" alt="springboot" src="https://miro.medium.com/v2/resize:fit:700/0*R60lnmJl4hanOBaJ.png"/>](https://spring.io/projects/spring-boot/)
+[<img height="48px" width="80px" alt="springboot" src="https://miro.medium.com/v2/resize:fit:700/0*R60lnmJl4hanOBaJ.png"/>](https://spring.io/projects/spring-boot/)
 [<img height="48px" width="48px" alt="Icone Java Script" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>](https://www.mysql.com/)
 [<img height="48px" width="48px" alt="Icone PostgreSQL" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png"/>](https://www.postgresql.org)
 
