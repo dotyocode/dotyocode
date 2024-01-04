@@ -4,7 +4,7 @@
 ### i'm John. <img src="https://media.tenor.com/pIFQKq9tCo0AAAAM/sir-percedal-of-sadlygrove-wakfu-the-animated-series.gif" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 - 🔰 Viçosa / MG
-- ⚡ Front end developer and future fullstack developer 
+- ⚡ Fullstack developer 
 - 🏦 I currently work at the company Squadra Digital, in Belo Horizonte Minas Gerais
 
 ##
