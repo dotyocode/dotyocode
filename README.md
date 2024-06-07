@@ -33,7 +33,7 @@ In the overview below you will find my most recent work experience:
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://play-lh.googleusercontent.com/U3raDfjIVR6N7XoZaIKZxHHt6u6kTUyDAcyyAelMnrnuPLtUN-Mznpo2xXWREQAXf38"/>](https://www.squadra.com.br/)
 **Front end Developer Mid Level** \
 [**Squadra Digital**](https://www.squadra.com.br/) • Full-time \
-Skills: `Angular`, `AngularJS`, `RXJs`, `Node.js`, `Jasmine`, `Scrum`, `HTML`, `Bootstrap`, `SASS`, `SCSS` `Tail wind` `GitLab` `GIT` `Azure`, 
+Skills: `ReactJS`, `React Native`, `Redux`, `Angular`, `AngularJS`, `RXJs`, `Node.js`, `Jasmine`, `Scrum`, `HTML`, `Bootstrap`, `SASS`, `SCSS` `Tail wind` `GitLab` `GIT` `Azure`, 
 <br/> 
 
 ##
