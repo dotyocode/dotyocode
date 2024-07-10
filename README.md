@@ -30,7 +30,7 @@
 #### Professional experience:
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://play-lh.googleusercontent.com/U3raDfjIVR6N7XoZaIKZxHHt6u6kTUyDAcyyAelMnrnuPLtUN-Mznpo2xXWREQAXf38](https://media.licdn.com/dms/image/C4E0BAQEsTHhL4GO-dw/company-logo_200_200/0/1677777041236/vipcommerce_logo?e=1728518400&v=beta&t=SGMaxl4fc4QDXyx8_fuh-SaBRaDykODo1ooMErvR17E"/>](https://www.vipcommerce.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet"  src="https://media.licdn.com/dms/image/C4E0BAQEsTHhL4GO-dw/company-logo_200_200/0/1677777041236/vipcommerce_logo?e=1728518400&v=beta&t=SGMaxl4fc4QDXyx8_fuh-SaBRaDykODo1ooMErvR17E"/>](https://www.vipcommerce.com.br/)
 **Front end Developer Mid Level** \
 [**Squadra Digital**](https://www.squadra.com.br/) • Full-time \
 Skills: `Redux`, `Angular`, `Ionic`, `AngularJS`, `RXJs`, `Node.js`, `Jasmine`, `Jest`, `Scrum`, `HTML`, `Bootstrap`, `SASS`, `SCSS` `Tail wind` `GitLab` `GIT` `Azure`, 
