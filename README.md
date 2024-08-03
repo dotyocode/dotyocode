@@ -5,7 +5,7 @@
 
 - 🔰 Viçosa / MG
 - ⚡ Fullstack developer 
-- 🏦 I currently work at the company Squadra Digital, in Belo Horizonte Minas Gerais
+- 🏦 I currently work at the company VipCommerce, in Belo Horizonte Minas Gerais
 
 
 #### Main stack
