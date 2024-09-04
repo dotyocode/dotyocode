@@ -10,11 +10,11 @@
 
 #### Main stack
 
-[![Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,nextjs,angular,ionic,mysql)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,nextjs,angular,mysql)](https://skillicons.dev)
 
 #### Experience with other techs
 
-[![Skills](https://skillicons.dev/icons?i=github,githubactions,gitlab,nginx,regex,html,css,sass,vite,bootstrap,tailwind,jquery,express,rxjs,redux,sequelize,prisma,npm,yarn,git,linux,bash,figma,postman,photoshop,premiere)]()
+[![Skills](https://skillicons.dev/icons?i=github,githubactions,gitlab,nginx,regex,jest,reactivex,html,css,sass,styledcomponents,vite,bootstrap,tailwind,jquery,express,rxjs,redux,sequelize,prisma,npm,yarn,git,linux,bash,figma,azure,bitbucket,postman,photoshop,premiere)]()
 
 #### I'm learning about:
 
