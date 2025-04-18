@@ -30,7 +30,7 @@
 #### Professional experience:
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet"  src="https://media.licdn.com/dms/image/C4E0BAQEsTHhL4GO-dw/company-logo_200_200/0/1677777041236/vipcommerce_logo?e=1728518400&v=beta&t=SGMaxl4fc4QDXyx8_fuh-SaBRaDykODo1ooMErvR17E"/>](https://www.vipcommerce.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet"  src="https://media.licdn.com/dms/image/v2/C4E0BAQEsTHhL4GO-dw/company-logo_200_200/company-logo_200_200/0/1677777041236/vipcommerce_logo?e=2147483647&v=beta&t=8wSZpf3KfpCuh-l5XTFWPbwlKDxWcxmKxqqalpqDF1Y"/>](https://www.vipcommerce.com.br/)
 **Front end Developer Mid Level** \
 [**Squadra Digital**](https://www.squadra.com.br/) • Full-time \
 Skills: `Redux`, `Angular`, `Ionic`, `AngularJS`, `RXJs`, `Node.js`, `Jasmine`, `Jest`, `Scrum`, `HTML`, `Bootstrap`, `SASS`, `SCSS` `Tail wind` `GitLab` `GIT` `Azure`, 
@@ -46,7 +46,7 @@ Skills: `ReactJS`, `React Native`, `Redux`, `Angular`, `AngularJS`, `RXJs`, `Nod
 
 ##
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/imvRQVsNKJqLaGbB5zgvByAR5tRtJbTOUwSFgIvtzae1LvmfIT7LRqrlqNJB87IomvnrdxgyzQ=s900-c-k-c0x00ffffff-no-rj"/>](https://www.valecard.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/k41YwtjH3fZEUrfA8Z9TTaDDaVcSCQHWWZzcBTxq-a7H8Qdput91TGumr0r2E5e053zjYBLt=s900-c-k-c0x00ffffff-no-rj"/>](https://www.valecard.com.br/)
 **FullStack Developer Junior** \
 [**Vale Card**](https://www.valecard.com.br/) • Full-time \
 Skills: `Angular`, `AngularJS`, `RXJs`, `Java`, `Springboot`, `Jasmine`, `Scrum`, `HTML`, `Bootstrap`, `SASS`, `SCSS` `Tail wind` `GitLab` `GIT` `Azure`, 
