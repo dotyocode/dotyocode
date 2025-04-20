@@ -14,7 +14,7 @@
 
 #### Experience with other techs
 
-[![Skills](https://skillicons.dev/icons?i=github,githubactions,gitlab,nginx,regex,jest,reactivex,html,css,sass,styledcomponents,vite,bootstrap,tailwind,jquery,express,rxjs,redux,sequelize,prisma,npm,yarn,git,linux,bash,figma,azure,bitbucket,postman,photoshop,premiere)]()
+[![Skills](https://skillicons.dev/icons?i=github,githubactions,gitlab,nginx,regex,jest,reactivex,html,css,sass,styledcomponents,vite,bootstrap,tailwind,jquery,express,rxjs,redux,sequelize,prisma,npm,yarn,git,linux,bash,figma,azure,bitbucket,postman,redis,photoshop,premiere)]()
 
 #### I'm learning about:
 
