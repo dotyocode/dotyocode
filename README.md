@@ -10,16 +10,11 @@
 
 #### Main stack
 
-[![Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,nextjs,angular,mysql)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,nextjs,angular,mysql,nestjs,rxjs,jest)](https://skillicons.dev)
 
 #### Experience with other techs
 
-[![Skills](https://skillicons.dev/icons?i=github,githubactions,gitlab,nginx,regex,jest,reactivex,html,css,sass,styledcomponents,vite,bootstrap,tailwind,jquery,express,rxjs,redux,sequelize,prisma,npm,yarn,git,linux,bash,figma,azure,bitbucket,postman,redis,photoshop,premiere)]()
-
-#### I'm learning about:
-
-[![Skills](https://skillicons.dev/icons?i=postgres,nestjs)]()
-
+[![Skills](https://skillicons.dev/icons?i=github,githubactions,gitlab,nginx,regex,postgres,jest,reactivex,html,css,sass,styledcomponents,vite,bootstrap,tailwind,jquery,express,rxjs,redux,sequelize,prisma,npm,yarn,git,linux,bash,figma,azure,bitbucket,postman,redis,photoshop,premiere)]()
 
 #### How to contact me:
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jhonathan-peres/)
