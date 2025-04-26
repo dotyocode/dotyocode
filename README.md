@@ -10,7 +10,7 @@
 
 #### Main stack
 
-[![Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,nextjs,angular,mysql,nestjs,rxjs,jest)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,angular,mysql,nestjs,rxjs,jest)](https://skillicons.dev)
 
 #### Experience with other techs
 
