@@ -28,7 +28,7 @@ In the overview below you will find my most recent work experience:
 [<img align="left" height="94px" width="94px" alt="Warpnet"  src="https://media.licdn.com/dms/image/v2/D4D0BAQFOPyOhO4wTTg/company-logo_200_200/company-logo_200_200/0/1719784126380/stefanini_brasil_logo?e=1756944000&v=beta&t=XkL1KRa9H3aJI35S5tABdNt5bh31lKLl0ByZM3kHlQk"/>](https://www.vipcommerce.com.br/)
 **Front end Developer Mid Level** \
 [**Stefanini IT Solutions**](https://stefanini.com/pt-br) • Full-time \
-Skills: `Redux`, `Angular`, `Ionic`, `AngularJS`, `RXJs`, `NgRx`, `Node.js`, `Jasmine`, `Jest`, `Scrum`, `HTML`, `Bootstrap`, `SASS`, `SCSS` `Tailwind` `GitLab` `GIT` `Azure`, 
+Skills: `Redux`, `Angular`, `Signals`, `AngularJS`, `RXJs`, `NgRx`, `Node.js`, `Jasmine`, `Jest`, `Scrum`, `HTML`, `Bootstrap`, `SASS`, `SCSS` `Tailwind` `GitLab` `GIT` `Azure`, 
 <br/> 
 
 ##
