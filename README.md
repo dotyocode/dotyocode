@@ -25,10 +25,18 @@
 #### Professional experience:
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet"  src="https://media.licdn.com/dms/image/v2/C4E0BAQEsTHhL4GO-dw/company-logo_200_200/company-logo_200_200/0/1677777041236/vipcommerce_logo?e=2147483647&v=beta&t=8wSZpf3KfpCuh-l5XTFWPbwlKDxWcxmKxqqalpqDF1Y"/>](https://www.vipcommerce.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet"  src="https://media.licdn.com/dms/image/v2/D4D0BAQFOPyOhO4wTTg/company-logo_200_200/company-logo_200_200/0/1719784126380/stefanini_brasil_logo?e=1756944000&v=beta&t=XkL1KRa9H3aJI35S5tABdNt5bh31lKLl0ByZM3kHlQk"/>](https://www.vipcommerce.com.br/)
 **Front end Developer Mid Level** \
-[**Squadra Digital**](https://www.squadra.com.br/) • Full-time \
-Skills: `Redux`, `Angular`, `Ionic`, `AngularJS`, `RXJs`, `NgRx`, `Node.js`, `Jasmine`, `Jest`, `Scrum`, `HTML`, `Bootstrap`, `SASS`, `SCSS` `Tail wind` `GitLab` `GIT` `Azure`, 
+[**Stefanini IT Solutions**](https://stefanini.com/pt-br) • Full-time \
+Skills: `Redux`, `Angular`, `Ionic`, `AngularJS`, `RXJs`, `NgRx`, `Node.js`, `Jasmine`, `Jest`, `Scrum`, `HTML`, `Bootstrap`, `SASS`, `SCSS` `Tailwind` `GitLab` `GIT` `Azure`, 
+<br/> 
+
+##
+
+[<img align="left" height="94px" width="94px" alt="Warpnet"  src="https://media.licdn.com/dms/image/v2/D4D0BAQGYEfbUwYeVJQ/company-logo_200_200/company-logo_200_200/0/1720719174919/luizalabs_logo?e=1756944000&v=beta&t=FfnIaQ1ls-HNJjuyPkw_Vh1ohZRl6xqNJE34z91EODs"/>](https://www.vipcommerce.com.br/)
+**Front end Developer Mid Level** \
+[**Luiza Labs**](https://www.instagram.com/luizalabs/) • Full-time \
+Skills: `Redux`, `Angular`, `Ionic`, `AngularJS`, `RXJs`, `NgRx`, `Node.js`, `Jasmine`, `Jest`, `Scrum`, `HTML`, `Bootstrap`, `SASS`, `SCSS` `Tailwind` `GitLab` `GIT` `Azure`, 
 <br/> 
 
 ##
